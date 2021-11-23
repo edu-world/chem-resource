@@ -6,7 +6,7 @@ Welcome to Chem-resource, this site will help you find chemical education resouc
 
 | [知网](https://www.cnki.net/)  | [维普](http://www.cqvip.com/)  | [龙猫学术网](http://www.6453.net/)  | [小木虫](http://muchong.com/)  | 
 |:-----:|:-----:|:------:|:----:|
-| [国家哲学社会科学文献中心](http://www.ncpssd.org/)  | [中国社会科学网](http://www.cssn.cn/)  | [广东省图书馆](http://www.zslib.com.cn/) | [广东省图书馆](http://www.zslib.com.cn/) |
+| [国家哲学社会科学文献中心](http://www.ncpssd.org/)  | [中国社会科学网](http://www.cssn.cn/)  | [国家图书馆](http://www.nlc.cn/) | [广东省图书馆](http://www.zslib.com.cn/) |
 
 ### 化学教育科研网站
 #### 期刊官网
