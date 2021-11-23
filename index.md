@@ -1,4 +1,6 @@
-## Welcome to Chem-resource, this site will help you find chemical education resouces quickly.
+## Chem-resource
+
+Welcome to Chem-resource, this site will help you find chemical education resouces quickly.
 
 [Please click here find me.](https://github.com/edu-world/chem-resource) https://github.com/edu-world/chem-resource
 
