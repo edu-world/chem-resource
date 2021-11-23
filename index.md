@@ -10,6 +10,12 @@ Welcome to Chem-resource, this site will help you find chemical education resouc
 [有机化合物结构图软件-KingDraw](http://www.kingdraw.cn/) 
 [有机化合物结构图软件-InDraw](http://www.integle.com/static/indraw) 
 
+|  栏目1  |  栏目2  |
+| ------- | -------|
+|  内容1  |  内容2  |
+
+
+
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
