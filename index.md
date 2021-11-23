@@ -27,3 +27,8 @@ Welcome to Chem-resource, this site will help you find chemical education resouc
 |:-----:|:-----:|:----------:|:----:|:----:|
 | [Draw.io](https://draw-io.en.softonic.com/) | [Chemsketch](http://www.acdlabs.com/home/)  | [KingDraw](http://www.kingdraw.cn/)  | [InDraw](http://www.integle.com/static/indraw)  | [vesta](http://www.jp-minerals.org/vesta/en/download.html) |
 
+### 化学教育资源
+
+| [虚拟仿真PhET](https://phet.colorado.edu/) | [国家基础教育资源网](https://so.eduyun.cn/national/index) | [组卷网](https://www.zujuan.com/) | [学科网](https://hx.zxxk.com/h/books-v730/) |
+|:-----:|:-----:|:------:|:----:|
+| [题库](https://www.tiku.cn/index/index/questions?cid=16&cno=1&vid=800018&bid=800116&unitid=800509&thrknowid=703761) | [学科网视频频道](https://sp.zxxk.com/h-hx/) |  [第二教育网](https://s.dearedu.com/?type=%E5%85%A8%E9%83%A8&section_id=3&subject_id=5) | [莲山课件](https://www.5ykj.com/) |
