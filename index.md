@@ -2,7 +2,14 @@
 
 Welcome to Chem-resource, this site will help you find chemical education resouces quickly.
 
-[Please click here find me.](https://github.com/edu-world/chem-resource) https://github.com/edu-world/chem-resource
+[https://github.com/edu-world/chem-resource](https://github.com/edu-world/chem-resource) 
+
+# 化学绘图工具
+[流程图软件-Draw.io](https://draw-io.en.softonic.com/) 
+[化学绘图软件-Chemsketch](http://www.acdlabs.com/home/) 
+[有机化合物结构图软件-KingDraw](http://www.kingdraw.cn/) 
+[有机化合物结构图软件-InDraw](http://www.integle.com/static/indraw) 
+
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
