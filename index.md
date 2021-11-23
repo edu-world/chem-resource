@@ -16,7 +16,6 @@ Welcome to Chem-resource, this site will help you find chemical education resouc
 | [Chemical education](https://pubs.acs.org/loi/jceda8/) | [Chem. Educ. Res. Pract.](https://pubs.rsc.org/en/journals/journalissues/rp#!recentarticles&adv) |  [中学化学]() | [中国教育信息化](https://www.ict.edu.cn/) |
 
 #### 投稿官网
-
 | [化学教育](http://www.hxjy.chemsoc.org.cn/journalx/authorLogOn.action?mag_Id=1) | [化学教学]() | [化学教与学](http://www.jschemedu.com/Journalx_hxjyx/authorLogOn.action) | 中学化学教学参考 |
 |:-----:|:-----:|:------:|:----:|
 | [Chemical education](https://acsparagonplus.acs.org/psweb/loginForm?code=1000) | [Chem. Educ. Res. Pract.](https://mc.manuscriptcentral.com/rp) |  [中学化学]() | [中国教育信息化](http://jyxx.cbpt.cnki.net/wkg/WebPublication/index.aspx?mid=jyxx) |
