@@ -1,2 +1,2 @@
 # chem-resource
-A cluster of chemical education resources network from DOU
+A cluster of chemical education resources network
