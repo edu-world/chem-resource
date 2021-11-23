@@ -1,6 +1,6 @@
 ## Welcome to Chem-resource, this site will help you find chemical education resouces quickly.
 
-[Please click here find me.](https://github.com/edu-world/chem-resource) 
+[Please click here find me.](https://github.com/edu-world/chem-resource) https://github.com/edu-world/chem-resource
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
