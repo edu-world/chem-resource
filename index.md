@@ -10,13 +10,15 @@ Welcome to Chem-resource, this site will help you find chemical education resouc
 [有机化合物结构图软件-KingDraw](http://www.kingdraw.cn/) 
 [有机化合物结构图软件-InDraw](http://www.integle.com/static/indraw) 
 
-       | 流程图 | 仪器图 | 结构图 | 结构图 | 
-:-------:|:-----:|:-----:|:----------:|:----:|
-[化学绘图工具]| [Draw.io](https://draw-io.en.softonic.com/) | [Chemsketch](http://www.acdlabs.com/home/)  | [KingDraw](http://www.kingdraw.cn/)  | [InDraw](http://www.integle.com/static/indraw)  |
+
+|       | 流程图 | 仪器图 | 结构图 | 结构图 | 
+|:-------:|:-----:|:-----:|:----------:|:----:|
+|[化学绘图工具]| [Draw.io](https://draw-io.en.softonic.com/) | [Chemsketch](http://www.acdlabs.com/home/)  | [KingDraw](http://www.kingdraw.cn/)  | [InDraw](http://www.integle.com/static/indraw)  |
 
 
-Models | Caffe | Keras | TensorFlow | CNTK | MXNet | PyTorch  | CoreML | ONNX
-:-----:|:-----:|:-----:|:----------:|:----:|:-----:|:--------:|:------:|:-----:|
+
+|Models | Caffe | Keras | TensorFlow | CNTK | MXNet | PyTorch  | CoreML | ONNX
+|:-----:|:-----:|:-----:|:----------:|:----:|:-----:|:--------:|:------:|:-----:|
 [VGG 19](https://arxiv.org/abs/1409.1556.pdf) | √ | √ | √ | √ | √ | √ | √ | √
 [Inception V1](https://arxiv.org/abs/1409.4842v1) | √ | √ | √ | √ | √ | √ | √ | √
 [Inception V3](https://arxiv.org/abs/1512.00567)  | √ | √ | √ | √ | √ | √ | √ | √
