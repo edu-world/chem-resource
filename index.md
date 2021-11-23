@@ -11,7 +11,7 @@ Welcome to Chem-resource, this site will help you find chemical education resouc
 ### 化学教育科研网站
 #### 期刊官网
 
-| [化学教育](http://www.hxjy.chemsoc.org.cn/CN/volumn/home.shtml) | [化学教学]() | [化学教与学](http://www.jschemedu.com/Journalx_hxjyx/authorLogOn.action) | 中学化学教学参考 |
+| [化学教育](http://www.hxjy.chemsoc.org.cn/CN/volumn/home.shtml) | [化学教学]() | [化学教与学](http://www.jschemedu.com/CN/1008-0546/home.shtml) | 中学化学教学参考 |
 |:-----:|:-----:|:------:|:----:|
 | [Chemical education](https://pubs.acs.org/loi/jceda8/) | [Chem. Educ. Res. Pract.](https://pubs.rsc.org/en/journals/journalissues/rp#!recentarticles&adv) |  [中学化学]() | [中国教育信息化](https://www.ict.edu.cn/) |
 
